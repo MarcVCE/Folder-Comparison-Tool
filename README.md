@@ -1,4 +1,3 @@
-"""
 Folder Comparison Tool
 -----------------------
 
@@ -14,4 +13,3 @@ This tool helps you quickly identify:
 
 ⚠️ Note:
 It only compares by file name + extension, not by content.
-"""
